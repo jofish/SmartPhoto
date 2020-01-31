@@ -1,0 +1,14 @@
+.DS_Store
+.Python
+ImageMagick-7.0.9-17/
+bin/
+fftw-3.3.8/
+include/
+lib/
+moreexamples/
+newsamples/
+old-samples/
+piexif-1.1.2/
+pyexiftool/
+textcleaner.sh
+textdeskew.sh
